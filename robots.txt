@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://locus.com.br/sitemap.xml
